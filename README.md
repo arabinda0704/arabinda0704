@@ -1,5 +1,5 @@
 ## Hi there, I&apos;m Arabinda Das</h1>
-This is my [My Portfolio](https://arabinda0704.github.io/Portfolio/)
+This is [My Portfolio](https://arabinda0704.github.io/Portfolio/)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
