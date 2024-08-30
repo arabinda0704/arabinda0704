@@ -1,5 +1,5 @@
 ## Hi there, I&apos;m Arabinda Das</h1>**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankardas011&label=Profile%20views&color=0e75b6&style=flat" alt="dipankardas011" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
 
 <!--
 **arabinda0704/arabinda0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
