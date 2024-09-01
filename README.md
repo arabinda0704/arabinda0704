@@ -23,7 +23,7 @@
   <li>🌱 I’m currently learning <strong>Docker, Kubernetes, Podman Desktop</strong></li>
   <li>👯 I’m passionate about <strong>cloud-related technologies</strong></li>
   <li>💬 Ask me about <strong>Data Science, Software Engineering</strong></li>
-  <li>📫 How to reach me: <strong>7arabinda@gmail.com</strong></li>
+  <li>📫 How to reach me: **7arabinda@gmail.com**</li>
   <li>😄 Pronouns: <strong>He/Him</strong></li>
   <li>⚡ Fun fact: <strong>I love to observe people</strong></li>
 </ul>
