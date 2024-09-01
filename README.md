@@ -19,12 +19,12 @@
 
 <p align = "left">
 
-  🔭 I’m an <strong>Open-Source Enthusiast</strong>
-  🌱 I’m currently learning <strong>Docker, Kubernetes, Podman Desktop</strong>
-  👯 I’m passionate about <strong>cloud-related technologies</strong>
-  💬 Ask me about <strong>Data Science, Software Engineering</strong>
-  📫 How to reach me: **7arabinda@gmail.com**
-  😄 Pronouns: <strong>He/Him</strong>
+  🔭 I’m an <strong>Open-Source Enthusiast</strong><br>
+  🌱 I’m currently learning <strong>Docker, Kubernetes, Podman Desktop</strong><br>
+  👯 I’m passionate about <strong>cloud-related technologies</strong><br>
+  💬 Ask me about <strong>Data Science, Software Engineering</strong><br>
+  📫 How to reach me: **7arabinda@gmail.com**<br>
+  😄 Pronouns: <strong>He/Him</strong><br>
   ⚡ Fun fact: <strong>I love to observe people</strong>
 
 </p>
