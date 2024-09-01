@@ -1,4 +1,4 @@
-## Hi there, I&apos;m Arabinda Das</h1>
+## Hi 👋, I'm Arabinda Das</h1>
 This is [My Portfolio](https://arabinda0704.github.io/Portfolio/)
 <br>
 
