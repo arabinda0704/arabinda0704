@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=arabinda0704&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 </p>
 
