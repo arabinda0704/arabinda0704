@@ -3,6 +3,14 @@ This is [My Portfolio](https://arabinda0704.github.io/Portfolio/)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
+
+- <img src="https://github.com/arabinda0704/arabinda0704/assets/69349350/1eda599a-3ab8-4a69-8310-0cff0d3632bb" height="20" width="20"/> I’m currently learning **Docker, Kubernetes and Podman Desktop**
+
+- <img src="https://github.com/arabinda0704/arabinda0704/assets/69349350/415c6760-3639-4282-9b62-7a044da4191b" height="20" width="20"/> Ask me about **Data Science, Data analyst and Software engineering(front-end and back-end)**
+
+- <img src="https://github.com/arabinda0704/arabinda0704/assets/69349350/965642ad-4d9b-4478-9627-50ac47a1be84" height="20" width="20"/> How to reach me **7arabinda@gmail.com**
+
 
 <a align= "center" href="https://github.com/arabinda0704">
 <p>
