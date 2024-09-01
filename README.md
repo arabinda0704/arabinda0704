@@ -17,7 +17,7 @@
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=arabinda0704&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 </p>
 
-
+<p align = "left">
 
   🔭 I’m an <strong>Open-Source Enthusiast</strong>
   🌱 I’m currently learning <strong>Docker, Kubernetes, Podman Desktop</strong>
@@ -27,5 +27,5 @@
   😄 Pronouns: <strong>He/Him</strong>
   ⚡ Fun fact: <strong>I love to observe people</strong>
 
-
+</p>
 
