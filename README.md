@@ -1,8 +1,7 @@
-## Hi 👋, I'm Arabinda Das</h1>
+<h1 align="center"> Hi 👋, I'm Arabinda Das</h1>
 This is [My Portfolio](https://arabinda0704.github.io/Portfolio/)
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
 
 - <img src="https://github.com/arabinda0704/arabinda0704/assets/69349350/1eda599a-3ab8-4a69-8310-0cff0d3632bb" height="20" width="20"/> I’m currently learning **Docker, Kubernetes and Podman Desktop**
