@@ -2,12 +2,6 @@
 This is [My Portfolio](https://arabinda0704.github.io/Portfolio/)
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arabinda0704&label=Profile%20views&color=0e75b6&style=flat" alt="arabinda0704" /> </p>
-
-- </> I’m currently learning **Docker, Kubernetes and Podman Desktop**
-
-- </> Ask me about **Data Science, Data analyst and Software engineering(front-end and back-end)**
-
 
 
 <a align= "center" href="https://github.com/arabinda0704">
@@ -24,9 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m an **Open-Source Enthusiast**
 - 🌱 I’m currently learning **Docker, Kubernetes, Podman Desktop**
 - 👯 I’m Passionate about **cloud related technologies**
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about **Data Science, Software Engineering**
 - 📫 How to reach me: **7arabinda@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love to observe people**
--->
+
