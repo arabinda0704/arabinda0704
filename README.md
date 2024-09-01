@@ -1,9 +1,6 @@
 ##<h1 align="center"> Hi 👋, I'm Arabinda Das</h1>
 This is [My Portfolio](https://arabinda0704.github.io/Portfolio/)
 <br>
-
-
-
 <a align= "center" href="https://github.com/arabinda0704">
 <p>
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=arabinda0704&theme=dracula&hide_border=true">
