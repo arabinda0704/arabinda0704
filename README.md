@@ -4,12 +4,13 @@
   <a href="https://arabinda0704.github.io/Portfolio/">This is My Portfolio</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/arabinda0704">
     <img alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=arabinda0704&theme=dracula&hide_border=true" />
   </a>
-  <img align="right" height="auto" width="350px" src="https://github.com/arabinda0704/arabinda0704/blob/main/img/Anainfante865%20I%20will%20a%20melody%20lofi%20hip%20hop%20whit%20video%20for%20$5%20on%20fiverr_com.jpg?raw=true" />
+  <img height="auto" width="350px" src="https://github.com/arabinda0704/arabinda0704/blob/main/img/Anainfante865%20I%20will%20a%20melody%20lofi%20hip%20hop%20whit%20video%20for%20$5%20on%20fiverr_com.jpg?raw=true" />
 </p>
+
 
 <p align="center">
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=arabinda0704&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
