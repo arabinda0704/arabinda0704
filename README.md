@@ -18,14 +18,14 @@
 </p>
 
 
-<ul>
-  <li>🔭 I’m an <strong>Open-Source Enthusiast</strong></li>
-  <li>🌱 I’m currently learning <strong>Docker, Kubernetes, Podman Desktop</strong></li>
-  <li>👯 I’m passionate about <strong>cloud-related technologies</strong></li>
-  <li>💬 Ask me about <strong>Data Science, Software Engineering</strong></li>
-  <li>📫 How to reach me: **7arabinda@gmail.com**</li>
-  <li>😄 Pronouns: <strong>He/Him</strong></li>
-  <li>⚡ Fun fact: <strong>I love to observe people</strong></li>
-</ul>
+
+  🔭 I’m an <strong>Open-Source Enthusiast</strong>
+  🌱 I’m currently learning <strong>Docker, Kubernetes, Podman Desktop</strong>
+  👯 I’m passionate about <strong>cloud-related technologies</strong>
+  💬 Ask me about <strong>Data Science, Software Engineering</strong>
+  📫 How to reach me: **7arabinda@gmail.com**
+  😄 Pronouns: <strong>He/Him</strong>
+  ⚡ Fun fact: <strong>I love to observe people</strong>
+
 
 
