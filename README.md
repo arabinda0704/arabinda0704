@@ -25,7 +25,7 @@
   💬 Ask me about <strong>Data Science, Software Engineering</strong><br>
   📫 How to reach me: **7arabinda@gmail.com**<br>
   😄 Pronouns: <strong>He/Him</strong><br>
-  ⚡ Fun fact: <strong>I love to observe people</strong>
+  ⚡ Fun fact: <strong>I love to read people</strong>
 
 </p>
 
